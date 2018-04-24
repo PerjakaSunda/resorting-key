@@ -1,0 +1,11 @@
+{
+  "name": "resorting-key",
+  "version": "1.0.0",
+  "description": "Resorting array index/key with own array values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ihsan MSTF <ihsanmchink@gmail.com> (https://mystuff.world)",
+  "license": "ISC"
+}
